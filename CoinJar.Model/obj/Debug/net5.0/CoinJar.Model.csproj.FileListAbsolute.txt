@@ -1,0 +1,12 @@
+C:\Users\keletsom\source\repos\CoinJar\CoinJar.Model\bin\Debug\net5.0\CoinJar.Model.deps.json
+C:\Users\keletsom\source\repos\CoinJar\CoinJar.Model\bin\Debug\net5.0\CoinJar.Model.dll
+C:\Users\keletsom\source\repos\CoinJar\CoinJar.Model\bin\Debug\net5.0\ref\CoinJar.Model.dll
+C:\Users\keletsom\source\repos\CoinJar\CoinJar.Model\bin\Debug\net5.0\CoinJar.Model.pdb
+C:\Users\keletsom\source\repos\CoinJar\CoinJar.Model\obj\Debug\net5.0\CoinJar.Model.csproj.AssemblyReference.cache
+C:\Users\keletsom\source\repos\CoinJar\CoinJar.Model\obj\Debug\net5.0\CoinJar.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\keletsom\source\repos\CoinJar\CoinJar.Model\obj\Debug\net5.0\CoinJar.Model.AssemblyInfoInputs.cache
+C:\Users\keletsom\source\repos\CoinJar\CoinJar.Model\obj\Debug\net5.0\CoinJar.Model.AssemblyInfo.cs
+C:\Users\keletsom\source\repos\CoinJar\CoinJar.Model\obj\Debug\net5.0\CoinJar.Model.csproj.CoreCompileInputs.cache
+C:\Users\keletsom\source\repos\CoinJar\CoinJar.Model\obj\Debug\net5.0\CoinJar.Model.dll
+C:\Users\keletsom\source\repos\CoinJar\CoinJar.Model\obj\Debug\net5.0\ref\CoinJar.Model.dll
+C:\Users\keletsom\source\repos\CoinJar\CoinJar.Model\obj\Debug\net5.0\CoinJar.Model.pdb
